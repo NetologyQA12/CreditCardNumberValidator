@@ -7,7 +7,7 @@
 На тестирование затрачено: 1 час.
 
 В результате тестирования выявлены следующие дефекты:
-* [Bug Report](https://github.com/NetologyQA12/CreditCardNumberValidator/issues/1)
+* [Проверка номера карты в приложении Credit Card Number Validator](https://github.com/NetologyQA12/CreditCardNumberValidator/issues/1)
 
 
 ## Описание процесса тестирования
